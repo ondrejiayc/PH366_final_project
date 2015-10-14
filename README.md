@@ -1,4 +1,4 @@
-# PH366_final_project
+# PH366 final project
 Code and stuff for the final project for Physics 366.
 
 Idealistic plan for the forward model with issues:

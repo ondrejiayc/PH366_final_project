@@ -3,7 +3,7 @@ Code and stuff for the final project for Physics 366.
 
 Idealistic plan for the forward model with issues:
 
-1. Propose $$\nu$$ and $$\sigma$$ in each shell
+1. Propose $\nu$ and $$\sigma$$ in each shell
   * Proper definition of $$\sigma$$ vs. $$\sigma_{rr}$$ in the Jeans' equation -- is some $$\sqrt{3}$$ required?
 2. Generate galaxy positions in all shells
   * Presumably we want them uniform in $$x,y,z$$ -- but do we really?
